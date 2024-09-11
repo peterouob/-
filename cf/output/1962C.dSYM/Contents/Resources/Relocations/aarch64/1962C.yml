@@ -1,0 +1,16 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/peter/Desktop/cf/output/1962C'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z1ci, symObjAddr: 0x0, symBinAddr: 0x100003BA4, symSize: 0x60 }
+  - { offsetInCU: 0x3F, offset: 0x3F, size: 0x8, addend: 0x0, symName: _T, symObjAddr: 0x13630, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x5B, offset: 0x5B, size: 0x8, addend: 0x0, symName: _N, symObjAddr: 0x13634, symBinAddr: 0x100008004, symSize: 0x0 }
+  - { offsetInCU: 0x70, offset: 0x70, size: 0x8, addend: 0x0, symName: _a, symObjAddr: 0x13638, symBinAddr: 0x100008008, symSize: 0x0 }
+  - { offsetInCU: 0x44FF, offset: 0x44FF, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ue170006IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x1B0, symBinAddr: 0x100003D54, symSize: 0x58 }
+  - { offsetInCU: 0x453F, offset: 0x453F, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ue170006INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x294, symBinAddr: 0x100003E38, symSize: 0x2C }
+  - { offsetInCU: 0x6F70, offset: 0x6F70, size: 0x8, addend: 0x0, symName: __Z1ci, symObjAddr: 0x0, symBinAddr: 0x100003BA4, symSize: 0x60 }
+  - { offsetInCU: 0x6FAA, offset: 0x6FAA, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003C04, symSize: 0x124 }
+  - { offsetInCU: 0x708D, offset: 0x708D, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ue170006EPFRS3_S4_E, symObjAddr: 0x184, symBinAddr: 0x100003D28, symSize: 0x2C }
+  - { offsetInCU: 0x70BF, offset: 0x70BF, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ue170006Ec, symObjAddr: 0x208, symBinAddr: 0x100003DAC, symSize: 0x8C }
+  - { offsetInCU: 0x712B, offset: 0x712B, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ue170006Ec, symObjAddr: 0x2C0, symBinAddr: 0x100003E64, symSize: 0x38 }
+...

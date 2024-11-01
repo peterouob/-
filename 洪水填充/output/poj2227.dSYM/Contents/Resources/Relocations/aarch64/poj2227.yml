@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/peter/Documents/算法學習/洪水填充/output/poj2227"
+relocations:     []
+...

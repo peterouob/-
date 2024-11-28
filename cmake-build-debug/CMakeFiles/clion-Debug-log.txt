@@ -1,1 +1,1 @@
-CMakeLists.txt not found in /Users/peter/Desktop/LeetCode Select CMakeLists.txt
+在 /Users/peter/Documents/algo 中找不到 CMakeLists.txt 选择 CMakeLists.txt
